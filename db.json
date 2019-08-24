@@ -1,8 +1,6 @@
 {
-	"student": {
-	"machineId":1212,
-	"fpAuth":true
-		
-		}
+	"student": [
+	{"machineId":1212,"fpAuth":true}
+	],
 	"filename": "testfile.json"
 }
